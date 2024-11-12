@@ -1,0 +1,24 @@
+.jumbotron {
+
+    background-color: rgb(239, 235, 229);
+    color: rgb(16, 17, 17); 
+
+}
+
+.fw-bold{
+    font-size:x-large;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+
+.classname{
+    background-color: warning-subtle;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20;
+    padding: 10;
+    border: 10;
+}
+
+
+
+
